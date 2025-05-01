@@ -1,2 +1,2 @@
-# frivclassicgames
+# Games Friv
 friv classic games
